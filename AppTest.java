@@ -18,7 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-		System.out.println("1213");
+		System.out.println("121345678");
     }
 
     /**
