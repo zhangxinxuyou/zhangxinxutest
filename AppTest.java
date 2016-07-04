@@ -18,8 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
-		System.out.println("12134567811111");
-    }
+		System.out.println("121345678");    }
 
     /**
      * @return the suite of tests being tested
