@@ -19,6 +19,7 @@ public class AppTest
     {
         super( testName );
 		System.out.println("121345678");
+		System.out.println("121345678");
 		System.out.println("111111");
 
 	}
