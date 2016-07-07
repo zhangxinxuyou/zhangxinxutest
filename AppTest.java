@@ -23,6 +23,7 @@ public class AppTest
 		System.out.println("111111");
 		System.out.println("111111");
 		System.out.println("111111");
+		System.out.println("≤‚ ‘∫œ≤¢1");
 
 	}
 
