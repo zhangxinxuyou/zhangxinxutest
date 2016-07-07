@@ -25,6 +25,7 @@ public class AppTest
 		System.out.println("111111");
 		System.out.println("测试合并1");
 		System.out.println("测试合并2");
+		System.out.println("测试合并3");
 
 	}
 
